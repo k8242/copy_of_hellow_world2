@@ -1,4 +1,4 @@
 # hello-world2
 Another try at this.
 
-I'a a sea-pony!
+I'a a furry Rabbit!
