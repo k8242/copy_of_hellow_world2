@@ -7,4 +7,4 @@ Two file edit.
 Another one
 A third one. A little more
 <!-- @k8242 do this -->
-**foo**
+**bar**
